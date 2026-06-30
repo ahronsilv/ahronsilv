@@ -15,16 +15,6 @@ Parallel to my core engineering work, I actively build and scale organizational 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- Added &count_private=true below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahronsilv&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aharon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahronsilv&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">
